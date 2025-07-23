@@ -1,0 +1,6 @@
+tekore>=5.0.0            # Spotify API
+yt-dlp>=2024.4.9         # Baixar vídeos/músicas do YouTube
+eyed3>=0.9.7             # Tags ID3 para MP3
+pillow>=10.0.0           # Manipulação de imagem (capa do álbum)
+tk                       # Interface gráfica (Tkinter)
+urllib3                  # Requisições (usado internamente por urllib.request)
